@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# v: Play video
+# Used to quickly open a video file during presentations
+
+# mpv "$@"
+
+# cvlc gracefully handles desynced audio and video better than mpv
+cvlc --play-and-exit "$@"

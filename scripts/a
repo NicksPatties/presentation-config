@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# a: Play audio
+# Used to quickly play an audio during presentations
+
+# mpv
+# handles audio better than cvlc
+mpv "$@"

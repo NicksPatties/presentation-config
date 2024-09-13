@@ -1,0 +1,11 @@
+# Set a default theme
+theme = "gruvbox_dark_hard"
+
+# The most important thing is enabling line-wrap.
+# Don't want your text to go off the screen on accident!
+[editor]
+text-width = 80
+
+[editor.soft-wrap]
+enable = true
+wrap-at-text-width = true

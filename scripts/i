@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# i: Show image
+# Used to quickly show images during a presentation
+
+feh -. "$@"

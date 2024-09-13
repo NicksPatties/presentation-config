@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# g: Play gif
+# Used to quickly play gifs within presentations
+
+mpv --loop "$@"

@@ -1,0 +1,7 @@
+# Sample Alacritty configuration
+
+[window]
+decorations = "none"
+
+[font]
+size = 48
